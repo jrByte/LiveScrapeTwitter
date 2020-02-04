@@ -4,3 +4,5 @@
  To use the twitter api go to: https://developer.twitter.com/en/apps
  Information on pyowm can be found here: https://pyowm.readthedocs.io/en/latest/
  If there are any further questions and issues, feel free to contact me.
+
+ I am not responsible for what you use this software for. Follow and respect twitters and pyowms rules to using their api's.
