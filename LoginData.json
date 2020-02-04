@@ -1,0 +1,18 @@
+{
+  "Data": {
+    "dynamoDB_Region": "",
+    "dynamoDB_tableName": "",
+    "AWS_accessKey": "",
+    "AWS_secretAccessKey": "",
+    "twitterAccountID": "",
+    "twitter_accessToken": "",
+    "twitter_accessSecret": "",
+    "twitter_consumerKey": "",
+    "twitter_consumerSecret": "",
+    "key": "",
+    "location": "",
+    "fahrenheit": null,
+    "humidity": null,
+    "uploadToDataBase": null
+  }
+}
